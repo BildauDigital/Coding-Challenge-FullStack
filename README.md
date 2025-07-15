@@ -23,7 +23,6 @@ Furthermore we need a way to _block_ the content and _resolve_ those reports. Th
 
 ### Notes
 
-- Please don't spend more than 3 hours on this
 - Use vanilla PHP for the the backend part
 - Use React or another modern frontend framework
 - Utilize some kind of caching method, preferribly APCu
